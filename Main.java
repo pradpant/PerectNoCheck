@@ -1,7 +1,7 @@
 import java.util.*;
 class Main {
   private int x;
-  static public void findPerfectNo(int x){
+  public void findPerfectNo(int x){
     int s=0;
     boolean check=false;
     for(int i=0;i<x;i++){
